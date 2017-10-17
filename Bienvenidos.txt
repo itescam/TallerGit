@@ -5,4 +5,11 @@ Bitengine.com.mx
 gabriel.delrio@bitengine.com.mx
 
 HI
+<<<<<<< HEAD
 hola =)
+=======
+
+Today is a Great Day
+
+Hola a todos saludos a Mirian
+>>>>>>> 7987c4905529238e34e2b6a7726029fa25c3555d
