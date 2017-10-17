@@ -2,14 +2,7 @@ Bienvenidos al Taller de Sistemas de Control de Versiones con GIT
 Impartido por el Ingeniero Gabriel Del Rio Vargas.
 
 Bitengine.com.mx
-gabriel.detrtrtrtlrio@bitengine.com.mx
+gabriel.delrio@bitengine.com.mx
 
 HI
-<<<<<<< HEAD
 hola =)
-=======
-
-ToHHHHHHGreat Day
-
-Hola a todos saludos a Mirian
->>>>>>> 7987c4905529238e34e2b6a7726029fa25c3555d
