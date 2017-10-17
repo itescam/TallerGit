@@ -5,7 +5,11 @@ Bitengine.com.mx
 gabriel.detrtrtrtlrio@bitengine.com.mx
 
 HI
+<<<<<<< HEAD
+hola =)
+=======
 
 ToHHHHHHGreat Day
 
 Hola a todos saludos a Mirian
+>>>>>>> 7987c4905529238e34e2b6a7726029fa25c3555d
